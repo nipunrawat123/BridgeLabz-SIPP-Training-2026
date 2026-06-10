@@ -1,7 +1,4 @@
-package StoryBased;
-
-public class Ravi {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         String name = "Ravi";
         int age = 22;
         int rank = 5;
@@ -17,5 +14,3 @@ public class Ravi {
         System.out.println("Membership Fee : INR " + membershipFee);
         System.out.println("Annual Bonus   : INR " + bonusInt);
     }
-
-}
