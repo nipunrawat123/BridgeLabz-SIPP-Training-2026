@@ -1,4 +1,5 @@
-public static void main(String[] args) {
+public class Ravi {
+    public static void main(String[] args) {
         String name = "Ravi";
         int age = 22;
         int rank = 5;
@@ -14,3 +15,4 @@ public static void main(String[] args) {
         System.out.println("Membership Fee : INR " + membershipFee);
         System.out.println("Annual Bonus   : INR " + bonusInt);
     }
+}
