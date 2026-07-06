@@ -1,0 +1,5 @@
+cat > students.txt << EOF
+Rahul 80 90 85
+Priya 95 88 92
+Amit 70 75 80
+EOF

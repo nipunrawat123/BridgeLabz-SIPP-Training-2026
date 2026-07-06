@@ -1,0 +1,6 @@
+cat > bill.txt << EOF
+Rice 500
+Oil 200
+Milk 50
+Bread 40
+EOF

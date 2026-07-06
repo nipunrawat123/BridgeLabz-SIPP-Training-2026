@@ -1,0 +1,5 @@
+cat > emails.txt << EOF
+rahul@gmail.com
+ankit@yahoo.com
+priya@gmail.com
+EOF

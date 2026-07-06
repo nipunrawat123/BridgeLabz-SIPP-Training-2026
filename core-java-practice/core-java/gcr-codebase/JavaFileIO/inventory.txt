@@ -1,0 +1,5 @@
+cat > inventory.txt << EOF
+Laptop-10
+Mouse-0
+Keyboard-5
+EOF
